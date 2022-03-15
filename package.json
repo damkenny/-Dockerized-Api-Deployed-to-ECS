@@ -1,0 +1,14 @@
+{
+  "name": "demoapi",
+  "version": "1.0.0",
+  "description": "creating an api",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  },
+  "devDependencies": {},
+  "start": "node script.js",
+  "author": "Kehinde",
+  "license": "ISC"
+}
